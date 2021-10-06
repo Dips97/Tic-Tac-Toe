@@ -53,8 +53,8 @@
 /*hiding the image*/
 img{
   display: none;
-  height: 80px;
-  width: 100px;
+  height: 100px;
+  width: 300px;
   margin-left: auto;
   margin-right: auto;
 }
